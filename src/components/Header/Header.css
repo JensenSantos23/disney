@@ -1,0 +1,11 @@
+.jumbotron {
+    text-align: center;
+    margin-bottom: 30px;
+    background: rgba(233, 4, 4, 0.904);
+    
+  }
+  
+  .navbar {
+      border-radius: 6px; 
+      margin-bottom: 20px;
+  }
